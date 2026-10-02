@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables / secrets
+.env
+.env.*
+
+# React / Node
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+temp_*.pdf
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal files
+AdithiBhrugubanda_resume.pdf
